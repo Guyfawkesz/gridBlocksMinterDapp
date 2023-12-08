@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x49aC91f4657858c1e4e231a60e7A4AF7e986A155",
-  "SCAN_LINK": "https://etherscan.com/address/0x49aC91f4657858c1e4e231a60e7A4AF7e986A155",
+  "CONTRACT_ADDRESS": "0x95538A9ffcf417791F23673e32699656fB520E50",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x95538A9ffcf417791F23673e32699656fB520E50",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Mumbai Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 80001
   },
   "NFT_NAME": "gridBlocks",
   "SYMBOL": "GBLOCK",
